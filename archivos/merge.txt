@@ -1,5 +1,14 @@
+
 Nombre: Genner Pineda Ceballos.
 
 Edad: 22 años.
 
 Aspiraciones con la asignatura: Mejorar mis habilidades en programación, aprender a profundidad el paradigma de la programación orientada a objetos y avanzar en mi segunda carrera de ciencias de la computación.
+
+Inicialmente no se podía hacer un commit desde GitHub Desktop porque la capeta archivos estaba vacía, posteriormente cree desde la carpeta de mi computador 
+el documento respuesta.txt con lo que archivos dejó de ser una carpeta vacía y por tanto se habilitó el commit.
+
+Con respecto al punto 15, es importante tener en cuenta que si dos personas simultáneamente están trabajando en un código y alguno modifica algo en lo que está trabajando la otra persona entonces GitHub Desktop tendrá un conflicto
+con ambas versiones, dicho conflicto solo se solucionaría manualmente decidiendo qué versión dejar.
+
+
