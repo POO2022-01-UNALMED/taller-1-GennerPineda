@@ -1,0 +1,5 @@
+Nombre: Genner Pineda Ceballos.
+
+Edad: 22 años.
+
+Aspiraciones con la asignatura: Mejorar mis habilidades en programación, aprender a profundidad el paradigma de la programación orientada a objetos y avanzar en mi segunda carrera de ciencias de la computación.

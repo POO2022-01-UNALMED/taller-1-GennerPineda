@@ -1,0 +1,1 @@
+GitHub no permite hacer commit de carpetas vacías, por tanto no fue posible subir la carpeta archivos.txt en el paso 9.
